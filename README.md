@@ -7,4 +7,5 @@ Right now i am doing my first steps out in real world.
 I am a CS student, learning at Ariel-University (Israel). 
 I also work in company that develops municipal management softwares.
 
-I don't realy know right now what exactly i 
+I don't realy know right now what exactly i will and want to do in my GitHub account.
+I make this step as a part of programming-worlds' doorway.
